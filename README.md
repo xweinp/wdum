@@ -1,6 +1,6 @@
 # WDUM
 
-Solutions for the WDUM course at the University of Warsaw, 2025/2026.
+Solutions for the WDUM (Introduction to Machine Learning) course at the University of Warsaw, 2025/2026.
 
 ## Assignments
 
